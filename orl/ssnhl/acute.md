@@ -1,5 +1,5 @@
 ## Metadata
-Case ID: ent-ssnhl-acute-template
+Case ID: orl-ssnhl-acute-template
 
 ### Protocol
 - Sudden sensorineural hearing loss (SSNHL)
