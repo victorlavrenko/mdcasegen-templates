@@ -31,8 +31,8 @@ canals and **intact, normal-appearing | normal and intact** tympanic membranes
 Tuning fork testing **demonstrates | shows**
 
 A):  
-– Weber test lateralizes to the **left** ear
-– Rinne test is positive on the **right** ear
+- Weber test lateralizes to the **left** ear
+- Rinne test is positive on the **right** ear
 
 B) that sound is heard **louder | more prominently** in the **left** ear when
 the fork is placed on the forehead, and air conduction is
