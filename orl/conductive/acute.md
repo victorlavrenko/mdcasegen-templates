@@ -9,7 +9,7 @@ Case ID: orl-conductive-acute
 
 ### Variations
 - Age: 18–80
-- Affected ear: left or right
+- Coupled pair: left or right
 - Time since onset: 24–72 hours
 
 ### Noise
@@ -25,7 +25,7 @@ loss in the **right** ear, noticed **72** hours ago. Hearing in that ear was
 **The patient reports a history of seasonal allergies.**
 
 Otoscopic examination shows **clear | unobstructed** external auditory
-canals and the right tympanic membrane appears 
+canals and the **right** tympanic membrane appears 
 **mildly retracted | slightly retracted | mildly inwardly displaced | subtly retracted** 
 but intact.
 

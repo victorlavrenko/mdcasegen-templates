@@ -9,7 +9,7 @@ Case ID: orl-ssnhl-acute
 
 ### Variations
 - Age: 18–80
-- Affected ear: left or right
+- Coupled pair: left or right
 - Time since onset: 24–72 hours
 
 ### Noise
