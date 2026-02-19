@@ -1,4 +1,4 @@
-# mdcasegen Templates
+# caseforge Templates
 
 This repository contains Markdown templates for use with the mdcasegen engine.
 
