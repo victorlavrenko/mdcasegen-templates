@@ -1,5 +1,5 @@
 ## Metadata
-Case ID: orl-conductive-acute
+Case Type: orl-conductive-acute
 
 ### Protocol
 - conductive loss
